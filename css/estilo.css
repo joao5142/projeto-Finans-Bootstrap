@@ -1,0 +1,22 @@
+#home {
+	background: #ffc107;
+	color: white;
+	height: 100%;
+}
+html, body{
+	height: 100vh;
+
+}
+
+.caixaSessao{
+	padding: 60px 0px;
+ 
+	border-bottom: 1px solid #e5e5e5;
+}
+
+footer nav a {
+	 color: rgb(22, 120, 247) !important; 
+}
+footer a{
+	color: black;
+}
