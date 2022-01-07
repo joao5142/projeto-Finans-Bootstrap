@@ -11,19 +11,24 @@ body {
 
 }
 
+
+/* ##SECTION */
+
 #home {
 	background: #ffc107;
 	color: white;
 	height: 100vh;
 }
-
-/* ##SECTION */
-
 .boxSection {
 	padding: 60px 0px;
 
 	border-bottom: 1px solid #e5e5e5;
 }
+ 
+img-header{
+	heigth:100vh;
+}
+
 
 /* FOOTER */
 footer nav a {
